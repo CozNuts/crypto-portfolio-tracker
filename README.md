@@ -18,49 +18,53 @@ A professional Ethereum portfolio tracker that displays wallet balances, token h
 
 
 
-\### Vitalik Buterin's Wallet (Ethereum Creator)
+Vitalik Buterin's Wallet (Ethereum Creator)
 
-\*\*Address:\*\* `0xAb5801a7D398351b8bE11C439e05C5B3259aeC9B`
-
-
-
-!\[Vitalik Buterin Portfolio](screenshots\\crypto1.png)
-
-&nbsp;                           
-
-&nbsp;                           (screenshots\\crypto2.png)
-
-\## ✨ Features
+Address: `0xAb5801a7D398351b8bE11C439e05C5B3259aeC9B`
 
 
 
-\- ✅Real-time ETH \& ERC20 balances (USDT, USDC, DAI, WBTC)
-
-\- ✅Current cryptocurrency prices from CoinGecko API
-
-\- ✅Transaction history via Etherscan API
-
-\- ✅Portfolio visualization with interactive charts
-
-\- ✅Web interface (Streamlit) + Command line interface
-
-\- ✅Professional code structure with error handling
+!\[Vitalik Buterin Portfolio](screenshots/crypto1.png)
 
 
 
-\## 🛠️ Tech Stack
+
+
+!\[Vitalik Buterin](screenshots/crypto2.png)
+
+
+
+✨ Features
+
+
+
+\- ✅ Real-time ETH \& ERC20 balances (USDT, USDC, DAI, WBTC)
+
+\- ✅ Current cryptocurrency prices from CoinGecko API
+
+\- ✅ Transaction history via Etherscan API
+
+\- ✅ Portfolio visualization with interactive charts
+
+\- ✅ Web interface (Streamlit) + \*\*Command line interface\*\*
+
+\- ✅ Professional code structure with error handling
+
+
+
+🛠️ Tech Stack
 
 
 
 \- Python 3.11
 
-\- Web3.py- Blockchain interactions
+\- Web3.py - Blockchain interactions
 
-\- Streamlit- Web interface
+\- Streamlit - Web interface
 
-\- Ethereum- Blockchain network
+\- Ethereum - Blockchain network
 
-\- Infura- Node provider
+\- Infura - Node provider
 
 \- Etherscan API - Transaction data
 
@@ -68,11 +72,11 @@ A professional Ethereum portfolio tracker that displays wallet balances, token h
 
 
 
-\## 🚀 Quick Start
+🚀 Quick Start
 
 
 
-\### Prerequisites
+Prerequisites
 
 \- Python 3.11
 
@@ -120,35 +124,15 @@ crypto-portfolio-tracker/
 
 
 
-\## API Reference
+👨‍💻 Author
 
-The project integrates with:
+Nikita(CozNuts)
 
-* Infura API - Ethereum node access
-* Etherscan API - Transaction history
-* CoinGecko API - Real-time prices
+->GitHub: @CozNuts
 
 
 
 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License.
 
-
-
-👨‍💻 Author
-
-Your Name
-
-
-
-GitHub: CozNuts
-
-
-
-🙏 Acknowledgments
-
-* Ethereum Foundation
-* Infura for node services
-* Etherscan for blockchain data
-* CoinGecko for price data
