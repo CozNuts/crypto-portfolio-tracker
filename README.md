@@ -24,13 +24,11 @@ Address: `0xAb5801a7D398351b8bE11C439e05C5B3259aeC9B`
 
 
 
-!\[Vitalik Buterin Portfolio](screenshots/crypto1.png)
+!\[Vitalik Buterin Portfolio] (https://github.com/CozNuts/crypto-portfolio-tracker/blob/main/screenshots/crypto1.png?raw=true)
 
 
 
-
-
-!\[Vitalik Buterin](screenshots/crypto2.png)
+!\[Vitalik Buterin](https://github.com/CozNuts/crypto-portfolio-tracker/blob/main/screenshots/crypto2.png?raw=true)
 
 
 
