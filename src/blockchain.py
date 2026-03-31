@@ -1,5 +1,6 @@
-
-from src.utils import PriceFetcher
+from web3 import Web3
+import requests
+from config import Config
 
 class BlockchainManager:
     """Handles all blockchain interactions"""
