@@ -7,8 +7,8 @@ class BlockchainManager:
     """Handles all blockchain interactions"""
     
     def __init__(self):
-        self.config = Config()
-        self.w3 = Web3(Web3.HTTPProvider(self.config.INFURA_URL))
+    self.config = Config()
+    self.w3 = Web3(Web3.HTTPProvider(self.config.INFURA_URL))
         
     def is_connected(self):
         """Check blockchain connection"""
